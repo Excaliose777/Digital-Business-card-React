@@ -5,6 +5,7 @@
 #root {
     background: #23252C;
     height: 100vh;
+    padding: 44px;
 }
 
 .container{
@@ -22,6 +23,7 @@
 .info--image{
     height: 317px;
     width: 317px;
+    border-radius: 5px;
 }
 
 .info--name{
@@ -44,6 +46,7 @@
     text-align: center;
     margin-top: 10px;
 }
+
 
 .info--btns {
     margin-top: 15px;
